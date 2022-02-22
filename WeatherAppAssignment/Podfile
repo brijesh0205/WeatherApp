@@ -1,0 +1,23 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'WeatherAppAssignment' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for WeatherAppAssignment
+  pod 'XMPPFramework', :git=> 'https://github.com/robbiehanson/XMPPFramework.git', :branch => 'master'
+  pod 'RxSwift', '6.5.0'
+  pod 'RxCocoa', '6.5.0'
+  pod 'SwiftyJSON'
+
+  target 'WeatherAppAssignmentTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+  target 'WeatherAppAssignmentUITests' do
+    # Pods for testing
+  end
+
+end
