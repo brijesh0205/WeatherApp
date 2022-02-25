@@ -12,8 +12,8 @@
 ## Screens
 
 ![alt text](https://github.com/brijesh0205/WeatherApp/blob/main/XmppConectionScreen.png)
-![alt text](https://github.com/brijesh0205/WeatherApp/blob/main/CityListScreen.png)
-![alt text](https://github.com/brijesh0205/WeatherApp/blob/main/WestherScreen.png)
+![alt text](https://github.com/brijesh0205/WeatherApp/blob/main/NewCityListScreen.png)
+![alt text](https://github.com/brijesh0205/WeatherApp/blob/main/NewWeatherScreen.png)
 
 
 
