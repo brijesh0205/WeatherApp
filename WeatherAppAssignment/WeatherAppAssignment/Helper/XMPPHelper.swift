@@ -15,12 +15,9 @@ enum XMPPHelperError: Error {
 class XMPPHelper: NSObject {
     
     var xmppStream: XMPPStream
-   // var hostName = "sqli.io"
-    var hostName = "hell.la"
+    var hostName = "sqli.io"
     let userJID: XMPPJID
-   // let hostPort: UInt16
-    var hostPort:UInt16 = 5222
-
+    let hostPort: UInt16
     let password: String
     
     var completionHandler: ((Bool,Error?) -> Void)?

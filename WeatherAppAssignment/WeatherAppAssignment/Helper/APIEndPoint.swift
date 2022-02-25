@@ -2,8 +2,8 @@
 //  APIEndPoint.swift
 //  MuchBetterAssignment
 //
-//  Created by Brijesh Singh on 17/02/22.
-//  Copyright © 2020 . All rights reserved.
+//  Created by Brijesh Singh on 26/01/20.
+//  Copyright © 2020 Brijesh Singh. All rights reserved.
 //
 
 import UIKit

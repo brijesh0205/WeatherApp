@@ -25,12 +25,12 @@ struct WeatherModel: Codable {
 
 struct MainWeather: Codable{
 
-    var feelsLike : Float?
+    var feels_like : Float?
     var humidity : Int?
     var pressure : Int?
     var temp : Float?
-    var tempMax : Float?
-    var tempMin : Float?
+    var temp_max : Float?
+    var temp_min : Float?
 }
 
 struct Wind: Codable {
